@@ -10,7 +10,7 @@ You should first download the script to your local Linux machine , once done ple
 
 # Installation:
 
-wget https://github.com/asafsofer-sl/
+wget https://github.com/asafsofer-sl/AKS_tools
 
 chmod +x ./AKS_tools
 
