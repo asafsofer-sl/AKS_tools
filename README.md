@@ -1,7 +1,7 @@
 # AKS_tools
 AKS_tools
 
-The AKS_tools is Perl script , providing some basic CLI commands for beginners / learning 
+The AKS_tools is Perl script , providing some basic CLI commands for AKS users (Get Pods/Nodes/Uptime-SLA etc.)
 
 
 # How it works ?
