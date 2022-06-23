@@ -17,3 +17,10 @@ chmod +x ./AKS_tools
 sudo mv ./AKS_tools /usr/local/bin/AKS_tools
 
 
+# How to use
+
+run ./AKS_tools.pl
+and you will get the below :
+
+![image](https://user-images.githubusercontent.com/59789037/175250764-17dbe22e-707b-483d-8d77-adce1b64e870.png)
+
