@@ -5,8 +5,6 @@
 #Purpose        : Various Config Validations,search,locate files etc..
 #Prerequisites  : Files
 #                       1. AKS_tools ( script )
-#                       2. param.conf ( configuration file )
-#                 These two files should be kept in same folder always.
 # Contact	: Asaf.S
 #######################################################################################################################
 
