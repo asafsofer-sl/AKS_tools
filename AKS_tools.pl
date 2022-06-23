@@ -5,7 +5,6 @@
 #Purpose        : Various Config Validations,search,locate files etc..
 #Prerequisites  : Files
 #                       1. AKS_tools ( script )
-
 # Contact	: Asaf.S
 #######################################################################################################################
 
